@@ -1,1 +1,1 @@
-# grocery-app
+#grocery-app  is grocery management app
